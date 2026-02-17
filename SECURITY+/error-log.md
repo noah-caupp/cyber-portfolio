@@ -1,7 +1,7 @@
 # Security+ Error Log
 
 ## How to use
-Whenever I miss a question, I log it here in 60 seconds. The goal is to reduce repeat misses.
+Whenever I miss a question, I log it here. The goal is to reduce repeat misses.
 
 ---
 
@@ -14,7 +14,7 @@ Whenever I miss a question, I log it here in 60 seconds. The goal is to reduce r
 - Why I missed it (concept gap / trick wording / rushed / didn't know term):
 - Correct concept (2–4 lines, plain English):
 - Cue to remember (1 line):
-- Mini-drill to lock it in (what I will do tomorrow for 5 minutes):
+- Action step to lock it in (what I will do tomorrow for 5 minutes):
 
 ---
 
