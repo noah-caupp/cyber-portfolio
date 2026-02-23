@@ -43,7 +43,7 @@ Whenever I miss a question, I log it here. The goal is to reduce repeat misses.
 - **Question topic (1 line):** Which of the following principles is implemented in a mandatory access control model to determine object access by classification level?
 - **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Trick wording
 - **Correct concept (2–4 lines, plain English):** Need to know is used with mandatory access control environments to implement granular control over access to segmented and classified data. Clearance is the subject classification label that grants a user access to a specific security domain in a mandatory access control environment.
-- **Action step to lock it in (what I will do tomorrow for 5 minutes): Review difference betwwen Clearance and Need to know.
+- **Action step to lock it in (what I will do tomorrow for 5 minutes):** Review difference betwwen Clearance and Need to know.
 ## Repeat Misses (Top 10)
 1.
 2.
