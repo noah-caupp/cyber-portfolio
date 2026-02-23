@@ -31,13 +31,19 @@ Whenever I miss a question, I log it here. The goal is to reduce repeat misses.
 - **Correct concept (2–4 lines, plain English):** Use BitLocker to encrypt the entire system volume and protect both operating system and user data. Use BitLocker with a Trusted Platform Module (TPM) to protect the boot environment components such as the BIOS, Master Boot Record, Boot Sector, Boot Manager, and Windows Loader. The system is shut down if a boot environment change is detected. Using BitLocker, drives are locked if they are moved to another computer, and you can require a startup key on a USB drive or a PIN before the system boots.
 - **Action step to lock it in (what I will do tomorrow for 5 minutes):** Review question again
 ---
-- **Date:** 2/19/2026
+- **Date:** 2/19/26
 - **Domain:** 1.0 General Security Concepts
 - **Question topic (1 line):** Which of the following statements accurately describes the root of trust model in a public key infrastructure (PKI)?
 - **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Trick wording
 - **Correct concept (2–4 lines, plain English):** The root of trust model defines how users and different CAs can trust one another, with each CA issuing itself a root certificate.
 - **Action step to lock it in (what I will do tomorrow for 5 minutes):** Review root of trust model
-
+---
+- **Date:** 2/23/26
+- **Domain:** 4.0 Security Operations
+- **Question topic (1 line):** Which of the following principles is implemented in a mandatory access control model to determine object access by classification level?
+- **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Trick wording
+- **Correct concept (2–4 lines, plain English):** Need to know is used with mandatory access control environments to implement granular control over access to segmented and classified data. Clearance is the subject classification label that grants a user access to a specific security domain in a mandatory access control environment.
+- **Action step to lock it in (what I will do tomorrow for 5 minutes): Review difference betwwen Clearance and Need to know.
 ## Repeat Misses (Top 10)
 1.
 2.
