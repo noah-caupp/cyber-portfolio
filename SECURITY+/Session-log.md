@@ -25,8 +25,4 @@
   7. MFA can be something you are, something you have, something you can do, somewhere you are, and something you know.
   8. In MAC, it is write up and read down. This way, nobody accidentally publishes top secret data to unauthorized levels of access.
   9. Rule-Based Access Controls can allow or deny access based on a set of predefined rules.
-  10. 
-- 3 “must-remember” items:
-  - 
-  - 
-  - 
+  10. Non-repudiation is the concept of not being able to deny that someone performed an action.
