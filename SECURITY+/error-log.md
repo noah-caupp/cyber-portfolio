@@ -110,6 +110,18 @@ What describes the use of an application allow list?
 - **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Rushed
 - **Correct concept (2–4 lines, plain English):** Passwordless authentication eliminates traditional passwords and relies on other factors like biometrics, security keys, or mobile push notifications for user verification. Attestation involves verifying the integrity and authenticity of a device's hardware or software. While it can enhance overall security, it is not a passwordless authentication method.
 - **Action step to lock it in (what I will do tomorrow for 5 minutes):** REview question again
+---
+- **Date:** 3/3/26
+- **Question topic (1 line):** Which type of group can be used for controlling access to objects?
+- **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Concept gap
+- **Correct concept (2–4 lines, plain English):** Only security groups can be used for controlling access to objects. A discretionary access control list (DACL) is an implementation of discretionary access control (DAC).
+- **Action step to lock it in (what I will do tomorrow for 5 minutes):** Review question and what a DACL is.
+---
+- **Date:** 3/3/26
+- **Question topic (1 line):** What is the process of controlling access to resources such as computers, files, or printers called?
+- **Why I missed it (concept gap / trick wording / rushed / didn't know term):** Rushed
+- **Correct concept (2–4 lines, plain English):** Authorization is the process of controlling access to resources such as computers, files, or printers. Mandatory access control (MAC) is an access control system based on classifications of subjects and objects to define and control access.
+- **Action step to lock it in (what I will do tomorrow for 5 minutes):** Review question and MAC.
 ## Repeat Misses (Top 10)
 1.
 2.
